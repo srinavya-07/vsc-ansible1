@@ -1,0 +1,5 @@
+---
+    - name: file.yaml
+      file:
+        path: /home/navya/divya.txt
+        state: touch
